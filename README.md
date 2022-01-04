@@ -24,18 +24,30 @@
 <a target="_blank" rel="noopener noreferrer" href="https://redux.js.org"><img src="https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="redux" data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/docs/"><img src="https://camo.githubusercontent.com/a1eae878fdd3d1c1b687992ca74e5cac85f4b68e60a6efaa7bc8dc9883b71229/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" alt="nodejs" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://docs.npmjs.com" alt="npm" data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;"></a>
+
 <a target="_blank" rel="noopener noreferrer" href="https://tailwindui.com"><img src="https://camo.githubusercontent.com/e9b080a6541e5355827ea91b6a0302cbbc54af4705b0c6b0f1561a0957ced2fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="tailwind" data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/getting-started/introduction/"><img src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" style="max-width: 100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://docs.npmjs.com"><img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="npm" data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 
-## 🤖👾📈 My Projects...
+## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="https://www.devprojournal.com/wp-content/uploads/2020/03/Pluralsight_logo-e1585060094235.jpg" style="width: 50%;"></a> &nbsp;
-<a href="https://github.com/dineshcyber/FW12_Fabindia_Project"><img src="https://camo.githubusercontent.com/f0b73af6c36bcc289f79a11ef4f9ca0b3d293d2a05ee4972c3cdff1c3df8d857/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41646964617326636f6c6f723d303030303030266c6f676f3d416469646173266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="adidas" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Adidas&amp;color=000000&amp;logo=Adidas&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;"></a>
+<a href="https://github.com/aadityaneve/Clone-Pluralsight"><img src="https://www.pngkey.com/png/detail/70-705510_today-were-excited-to-announce-a-new-alexa.png" alt="Pluralsight" style="width: 15%; height: 50px;"></a>&nbsp;&nbsp;
+<a href="https://github.com/dineshcyber/FW12_Fabindia_Project"><img src="http://baggout.com/wp-content/uploads/2017/09/26_logo.jpg" alt="Fabindia" style="width: 15%; height: 50px"></a>
 </p>
+
+## 📧📫 Find me at...
+
+<p dir="auto">
+  <a href="https://www.linkedin.com/in/priya-darshini-3514921b3/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@priya06200" rel="nofollow"><img src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/priya_darshini_s_/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+  
+ 
+
+
 
 
 
