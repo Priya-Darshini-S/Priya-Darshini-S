@@ -1,6 +1,6 @@
 # Hi👋, I am Priya Darshini,
 
-**I love coding and I'm a dedicated and efficient Full-Stack Web Developer skilled in MERN stack who focuses and am avid learner. 
+A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am an avid learner. 
 
 ## 🙋‍♀️👩‍🎓 About me...
 
