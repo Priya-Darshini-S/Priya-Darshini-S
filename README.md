@@ -54,10 +54,10 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
  
   ## 📉📊 GitHub Stats...
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Priya-Darshini-S)](https://github.com/anuraghazra/github-readme-stats)
+[![Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priya-Darshini-S)](https://github.com/Priya-Darshini-S/Priya-Darshini-S/github-readme-stats)
   <br/>
 
   ## 🖋⌨Most Used Languages in Github...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Darshini-S&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Darshini-S&layout=compact)](https://github.com/Priya-Darshini-S/Priya-Darshini-S/github-readme-stats)
 
 
